@@ -5,4 +5,4 @@
 ### UDPWIBU lifetime 103.200.216.179
 ### SERVERWIBU lifetime 43.245.62.126
 ### Resseler1 2026-04-24 202.10.45.86
-### BANSOSWIBU lifetime 113.29.230.92
+### BANSOSWIBU lifetime 103.25.52.85
