@@ -6,3 +6,4 @@
 ### SERVERWIBU lifetime 43.245.62.126
 ### Resseler1 2026-04-24 202.10.45.86
 ### BANSOSWIBU lifetime 103.25.52.85
+### Adhipati 2026-04-24 103.150.92.193
