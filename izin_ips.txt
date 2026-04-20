@@ -3,7 +3,7 @@
 ### TESTI 2025-06-25 1.1.2.2
 ###===================================###
 ### UDPWIBU lifetime 103.200.216.179
-### SERVERWIBU lifetime 43.245.62.126
-### Resseler1 2026-04-24 202.10.45.86
+### UDPSECOND lifetime 43.245.60.217
 ### BANSOSWIBU lifetime 103.25.52.85
+### Resseler1 2026-04-24 202.10.45.86
 ### Adhipati 2026-05-16 103.150.92.193
