@@ -2,9 +2,8 @@
 ### TESTO lifetime 1.1.1.1
 ### TESTI 2025-06-25 1.1.2.2
 ###===================================###
-### UDPWIBU lifetime 103.200.216.179
+### UDPWIBU lifetime 103.14.76.80
 ### UDPSECOND lifetime 43.245.60.217
-### BANSOSWIBU lifetime 103.25.52.85
 ### Resseler1 2026-04-24 202.10.45.86
 ### Adhipati 2026-05-16 103.150.92.193
 ### Adhipat2 2026-05-23 202.10.37.112
